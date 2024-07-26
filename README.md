@@ -38,7 +38,9 @@ By default, the "About BTS" tab will be displayed with a brief introduction upon
 # Usage
 As an example of how to use BTS in the context of survival analysis for example, we can first upload our data by opening BTS, clicking on "Upload Data", clicking on Browse in the top of the left panel, and selecting the toydata_survivalanalysis_veteran.csv file in the example_data directory. We then click on the "Survival Curve" tab. Now if we want to construct a univariable Cox Proportional Hazards Regression model for example with the celltype group (i.e. squamous, smallcell, adeno, and large) as the predictor variable, we can choose diagtime as the survival time varaible (which indicates the amount of time to event), trt as the survival status variable (1 indicates no event, 2 indicates event), Input Unit as months, Output Unit as months, X-axis label as "Months After Diagnosis", Y-axis label as "Overall Survival", Time point for a survival rate as 1, Group comparison as yes, and group variable as celltype. The distribution of the celltype groups, the Kaplan-Meier curve, and the hazard ratios and p-values of each indicator variable for the non-reference celltype groups are found in the right panel.
 
-The full BTS tutorial can be found in the PDF document BTS_tutorial.pdf.
+![BTS_survival_analysis_tutorial](https://github.com/user-attachments/assets/874f1d6f-ebc1-4981-98a2-58db249ce033)
+
+The full BTS tutorial can be found in the PDF document BTSv1_user_tutorial.pdf.
 
 # Bugs/Questions
 If you notice any bugs in this software or have any questions, feel free to reach out to fy7392@wayne.edu.
