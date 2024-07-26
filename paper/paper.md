@@ -65,7 +65,7 @@ empower researchers, foster innovation, and accelerate discovery in the biologic
 To fill this gap, we developed 'BTS: Basic Testing System,' an R/Shiny-based statistical software app for teaching, learning, and performing basic statistical analyses in the biological sciences. 
 This Shiny application was built using R [@R:2020] and RStudio [@RStudio:2019] statistical software, along with Shiny [@Chang:2024]. The BTS was thoroughly tested while being not only used as the 
 supporting statistical software for teaching the statistical course in biological studies, but also can be used by researchers with non-statistical backgrounds to execute essential statistical methodologies
-efficiently for conducting their research. The BTS application and a tutorial illustrating its utilization are available on GitHub [https://github.com/hdlugas/BTS](https://github.com/hdlugas/BTS).
+efficiently for conducting their research. The BTS application and a tutorial illustrating its utilization are available on GitHub ([https://github.com/hdlugas/BTS](https://github.com/hdlugas/BTS)).
 
 # Functionality
 
