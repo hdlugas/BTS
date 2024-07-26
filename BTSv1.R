@@ -502,7 +502,7 @@ ui =
       
       # SliderbarPanel for Tumor growth curve
       conditionalPanel(#condition = "$('li.active a').first().html()==='About T-test'",
-        'input.method === "Tumor Grwoth Analysis"',
+        'input.method === "Tumor Growth Analysis"',
         selectInput("var1_tmg", 
                     label = "Please select a variable for individual ids (I)",
                     ""
