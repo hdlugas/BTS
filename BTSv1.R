@@ -827,7 +827,7 @@ ui =
                  h4("For many of these analyses, an example has been provided by default. By studying and manipulating these examples, users can easily learn how to conduct valid statistical analyses. Some approaches will activate upon uploading data to the app.",style="color: #194b78;"),
                  
                  h4("The user tutorial for BTS Version 1.0 is available below:",style="color: #ff8500;"),
-                 tags$a(href="BTSv1.0_User Tutorial_v07252024.pdf","User Tutorial Verision 1.0",target="_blank"),
+                 tags$a(href="BTSv1.0_User Tutorial_v07262024.pdf","User Tutorial Verision 1.0",target="_blank"),
                  h5("Please direct your questions to Hunter Dlugas (Email: dlugash at karmanos.org), Janaka Liyanage (Email: liyanagej at karmanos.org) and Seongho Kim (Email: kimse at karmanos.org; founder and creator), the developers of the software.",style="color: #00aed1;"),
                  br()
         ),
@@ -984,7 +984,7 @@ ui =
                  
                  )
         ),
-        tabPanel('Tumor Grwoth Analysis',
+        tabPanel('Tumor Growth Analysis',
                  conditionalPanel(condition = "(input.var1_tmg !== 'undefined' && input.var1_tmg.length > 0 &&
                                   input.var2_tmg !== 'undefined' && input.var2_tmg.length > 0 &&
                                   input.var3_tmg !== 'undefined' && input.var3_tmg.length > 0 &&
