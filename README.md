@@ -29,7 +29,7 @@ To install R and RStudio, see [https://cran.r-project.org/](https://cran.r-proje
 - DT
 - ISwR
 
-By default, the "About BTS" tab will be displayed with a brief introduction upon launching the BTS app (Figure 1) as seen below. The app has thirteen tabs on the top of the right panel, including the About BTS tab, aligned next to each other. Statistical analyses can be conducted by choosing the corresponding tab for each analysis. Each tab primarily consists of left and right panels. The left panel is the input panel that facilitates data upload and various parameter selections for performing each statistical procedure. The corresponding outputs are displayed on the right output panel. 
+By default, the "About BTS" tab will be displayed with a brief introduction upon launching the BTS app (Figure 1) as seen below. The app has thirteen tabs on the top of the right panel, including the "About BTS" tab. Statistical analyses can be conducted by choosing the corresponding tab for each analysis. Each tab primarily consists of left and right panels. The left panel is the input panel that facilitates data upload and various parameter selections for performing each statistical procedure. The corresponding outputs are displayed on the right output panel. 
 ![about_BTS](https://github.com/user-attachments/assets/1229c190-5c27-47c7-a799-9d5e42566336)
 
 
