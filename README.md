@@ -11,7 +11,7 @@ BTS is a web-based R Shiny application for teaching, learning, and performing st
 - Multiple comparison correction adjustments to p-values, including Holm’s, Bonferroni, Hommel, Hochberg, Benjamini-Hochberg, and Benjamini-Yekutieli adjustments.
 
 # Installation
-To install R and RStudio, see [https://cran.r-project.org/](https://cran.r-project.org/) and [https://posit.co/products/open-source/rstudio/](https://posit.co/products/open-source/rstudio/), respectively.To run BTS, open the BTSv1.R file in RStudio and either (1) press Ctrl+Shift+Enter or (2) click "Run App" in the upper-right corner. This will open the Shiny application in a new window. Note that BTS requires the following R packages, which will be installed when running BTSv1.R the first time:
+To install R and RStudio, see [https://cran.r-project.org/](https://cran.r-project.org/) and [https://posit.co/products/open-source/rstudio/](https://posit.co/products/open-source/rstudio/), respectively.To run BTS, open the BTSv1.R file in RStudio and either (1) press Ctrl+Shift+Enter or (2) click "Run App" in the upper-right corner. This will open the Shiny application in a new window. Note that BTS requires the following R packages, which will be installed (if not already installed) when running BTSv1.R the first time:
 
 - shiny
 - shinythemes
