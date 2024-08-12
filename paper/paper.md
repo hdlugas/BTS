@@ -43,12 +43,19 @@ To fill this gap, we developed 'BTS: Basic Testing System,' an R/Shiny-based sta
 # Functionality
 
 The following statistical analyses can be conducted using BTS:
+
 - Non-parametric and parametric tests for one, two, and paired sample comparisons, including t-tests and Wilcoxon rank sum tests.
+  
 - One-Way and Two-Way ANOVA. Tumor growth analysis.
+  
 - Tests for categorical data, including Chi-square test, Fisher’s exact test, McNemar’s test, and Cochran-Armitage trend test.
+  
 - Correlation calculation between variables, including Pearson, Spearman, and Kendall correlations.
+  
 - Regression analysis, including linear and logistic regression.
+  
 - Survival analysis, including Cox Proportional Hazards regression.
+  
 - Multiple comparison correction adjustments to p-values, including Holm’s, Bonferroni, Hommel, Hochberg, Benjamini-Hochberg, and Benjamini-Yekutieli adjustments.
 
 # Acknowledgements
