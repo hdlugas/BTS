@@ -42,6 +42,4 @@ As an example of how to use BTS in the context of survival analysis for example,
 
 The full BTS tutorial can be found in the PDF document BTSv1_user_tutorial.pdf.
 
-# Bugs/Questions
-If you notice any bugs in this software or have any questions, feel free to reach out to fy7392@wayne.edu.
 
