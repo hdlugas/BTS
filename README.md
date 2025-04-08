@@ -18,6 +18,7 @@ BTS is a web-based R Shiny application for teaching, learning, and performing st
 - Survival analysis, including Cox Proportional Hazards regression.
 - Multiple comparison correction adjustments to p-values, including Holm’s, Bonferroni, Hommel, Hochberg, Benjamini-Hochberg, and Benjamini-Yekutieli adjustments.
 
+
 <a name="installation"></a>
 ## 2. Installation
 To download BTS, one can click the green "Code" box at the top-right of this repository, and then click "Download ZIP". Once this ZIP file is downloaded on your local computer, extract the contents.
@@ -43,6 +44,7 @@ To install R and RStudio, see [https://cran.r-project.org/](https://cran.r-proje
 By default, the "About BTS" tab will be displayed with a brief introduction upon launching the BTS app (Figure 1) as seen below. The app has thirteen tabs on the top of the right panel, including the "About BTS" tab. Statistical analyses can be conducted by choosing the corresponding tab for each analysis. Each tab primarily consists of left and right panels. The left panel is the input panel that facilitates data upload and various parameter selections for performing each statistical procedure. The corresponding outputs are displayed on the right output panel.
 
 ![about_BTS](https://github.com/user-attachments/assets/bf536520-af5c-4723-8af4-f08adb926d31)
+
 
 <a name="usage"></a>
 ## 3. Usage
