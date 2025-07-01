@@ -32,13 +32,14 @@ To install R and RStudio, see [https://cran.r-project.org/](https://cran.r-proje
 - ISwR
 
 By default, the "About BTS" tab will be displayed with a brief introduction upon launching the BTS app (Figure 1) as seen below. The app has thirteen tabs on the top of the right panel, including the "About BTS" tab. Statistical analyses can be conducted by choosing the corresponding tab for each analysis. Each tab primarily consists of left and right panels. The left panel is the input panel that facilitates data upload and various parameter selections for performing each statistical procedure. The corresponding outputs are displayed on the right output panel.  
-![about_BTS](https://github.com/user-attachments/assets/1229c190-5c27-47c7-a799-9d5e42566336)
+![intro_window](https://github.com/user-attachments/assets/c4f6ebed-591a-463b-beb1-1852fc0f11fd)
 
 
 # Usage
 As an example of how to use BTS in the context of survival analysis for example, we can first upload our data by opening BTS, clicking on "Upload Data", clicking on Browse in the top of the left panel, and selecting the toydata_survivalanalysis_veteran.csv file in the example_data directory. We then click on the "Survival Curve" tab. Now if we want to construct a univariable Cox Proportional Hazards Regression model for example with the celltype group (i.e. squamous, smallcell, adeno, and large) as the predictor variable, we can choose diagtime as the survival time varaible (which indicates the amount of time to event), trt as the survival status variable (1 indicates no event, 2 indicates event), Input Unit as months, Output Unit as months, X-axis label as "Months After Diagnosis", Y-axis label as "Overall Survival", Time point for a survival rate as 1, Group comparison as yes, and group variable as celltype. The left panel of BTS will then appear as it does in the screenshot below. The distribution of the celltype groups, the Kaplan-Meier curve, and the hazard ratios and p-values of each indicator variable for the non-reference celltype groups are found in the right panel.
 
-![BTS_survival_analysis_tutorial](https://github.com/user-attachments/assets/874f1d6f-ebc1-4981-98a2-58db249ce033)
+![side_panel_survival_analysis](https://github.com/user-attachments/assets/4b9538dd-2cd9-4f8e-ad2b-19ce304fe283)
+
 
 The full BTS tutorial can be found in the PDF document BTSv1_user_tutorial.pdf.
 
